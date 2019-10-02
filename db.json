@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "ingles basic v1.2",
+      "precio": "15"
+    },
+    {
+      "id": 3,
+      "nombre": "avengers era",
+      "precio": "2"
+    },
+    {
+      "nombre": "react.js",
+      "precio": "33",
+      "id": 4
+    }
+  ]
+}
